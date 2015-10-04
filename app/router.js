@@ -9,6 +9,7 @@ Router.map(function() {
   this.route('notes');
   this.route('exhibits');
   this.route('collections');
+  this.route('contact');
 });
 
 export default Router;
