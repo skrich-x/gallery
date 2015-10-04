@@ -8,6 +8,7 @@ var Router = Ember.Router.extend({
 Router.map(function() {
   this.route('notes');
   this.route('exhibits');
+  this.route('collections');
 });
 
 export default Router;
